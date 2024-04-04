@@ -1,0 +1,95 @@
+h1{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: left;
+    color: white;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    background-color: rgba(234, 68, 68, 0.827);
+    border-radius: 50px;
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: left;
+    color: white;
+}
+
+body {
+background-image: url(dona\ flor\ e\ seus\ dois\ maridos.jpeg);
+background-size: cover;
+}
+
+.title {
+    margin-top: -75px;
+    color: white;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgba(232, 0, 0, 0.81);
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    transform: translateY(50px);
+}
+
+.spirit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgba(243, 0, 0, 0.81);
+    width: fit-content;
+    height: fit-content;
+    position: absolute;  
+    bottom: 50px;
+    left: 535px;
+    transform: translateY(100px);
+}
+
+.vadinho {
+        color: black;
+        background-color: white;
+        width: fit-content;
+        height: fit-content;
+        position: absolute;
+        top: 520px;
+        right: 12px;
+
+}
+
+.madureira {
+    color: white;
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 450px;
+    left: 12px;
+    bottom: 150%;
+    transform: translateY(95px);
+}
